@@ -1,0 +1,71 @@
+C:\Users\Eliyahu\Desktop\UPN\Ciclo V 2022-2\ESTRUCTURA DE DATOS - 13553 (Remoto)\EXAMENES\T1\13553_Curso_T1\13553_Curso_T1\bin\Debug\net6.0-windows\13553_Curso_T1.exe
+C:\Users\Eliyahu\Desktop\UPN\Ciclo V 2022-2\ESTRUCTURA DE DATOS - 13553 (Remoto)\EXAMENES\T1\13553_Curso_T1\13553_Curso_T1\bin\Debug\net6.0-windows\13553_Curso_T1.deps.json
+C:\Users\Eliyahu\Desktop\UPN\Ciclo V 2022-2\ESTRUCTURA DE DATOS - 13553 (Remoto)\EXAMENES\T1\13553_Curso_T1\13553_Curso_T1\bin\Debug\net6.0-windows\13553_Curso_T1.runtimeconfig.json
+C:\Users\Eliyahu\Desktop\UPN\Ciclo V 2022-2\ESTRUCTURA DE DATOS - 13553 (Remoto)\EXAMENES\T1\13553_Curso_T1\13553_Curso_T1\bin\Debug\net6.0-windows\13553_Curso_T1.dll
+C:\Users\Eliyahu\Desktop\UPN\Ciclo V 2022-2\ESTRUCTURA DE DATOS - 13553 (Remoto)\EXAMENES\T1\13553_Curso_T1\13553_Curso_T1\bin\Debug\net6.0-windows\13553_Curso_T1.pdb
+C:\Users\Eliyahu\Desktop\UPN\Ciclo V 2022-2\ESTRUCTURA DE DATOS - 13553 (Remoto)\EXAMENES\T1\13553_Curso_T1\13553_Curso_T1\obj\Debug\net6.0-windows\13553_Curso_T1.csproj.AssemblyReference.cache
+C:\Users\Eliyahu\Desktop\UPN\Ciclo V 2022-2\ESTRUCTURA DE DATOS - 13553 (Remoto)\EXAMENES\T1\13553_Curso_T1\13553_Curso_T1\obj\Debug\net6.0-windows\_13553_Curso_T1.Form1.resources
+C:\Users\Eliyahu\Desktop\UPN\Ciclo V 2022-2\ESTRUCTURA DE DATOS - 13553 (Remoto)\EXAMENES\T1\13553_Curso_T1\13553_Curso_T1\obj\Debug\net6.0-windows\_13553_Curso_T1.Properties.Resources.resources
+C:\Users\Eliyahu\Desktop\UPN\Ciclo V 2022-2\ESTRUCTURA DE DATOS - 13553 (Remoto)\EXAMENES\T1\13553_Curso_T1\13553_Curso_T1\obj\Debug\net6.0-windows\13553_Curso_T1.csproj.GenerateResource.cache
+C:\Users\Eliyahu\Desktop\UPN\Ciclo V 2022-2\ESTRUCTURA DE DATOS - 13553 (Remoto)\EXAMENES\T1\13553_Curso_T1\13553_Curso_T1\obj\Debug\net6.0-windows\13553_Curso_T1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eliyahu\Desktop\UPN\Ciclo V 2022-2\ESTRUCTURA DE DATOS - 13553 (Remoto)\EXAMENES\T1\13553_Curso_T1\13553_Curso_T1\obj\Debug\net6.0-windows\13553_Curso_T1.AssemblyInfoInputs.cache
+C:\Users\Eliyahu\Desktop\UPN\Ciclo V 2022-2\ESTRUCTURA DE DATOS - 13553 (Remoto)\EXAMENES\T1\13553_Curso_T1\13553_Curso_T1\obj\Debug\net6.0-windows\13553_Curso_T1.AssemblyInfo.cs
+C:\Users\Eliyahu\Desktop\UPN\Ciclo V 2022-2\ESTRUCTURA DE DATOS - 13553 (Remoto)\EXAMENES\T1\13553_Curso_T1\13553_Curso_T1\obj\Debug\net6.0-windows\13553_Curso_T1.csproj.CoreCompileInputs.cache
+C:\Users\Eliyahu\Desktop\UPN\Ciclo V 2022-2\ESTRUCTURA DE DATOS - 13553 (Remoto)\EXAMENES\T1\13553_Curso_T1\13553_Curso_T1\obj\Debug\net6.0-windows\13553_Curso_T1.dll
+C:\Users\Eliyahu\Desktop\UPN\Ciclo V 2022-2\ESTRUCTURA DE DATOS - 13553 (Remoto)\EXAMENES\T1\13553_Curso_T1\13553_Curso_T1\obj\Debug\net6.0-windows\refint\13553_Curso_T1.dll
+C:\Users\Eliyahu\Desktop\UPN\Ciclo V 2022-2\ESTRUCTURA DE DATOS - 13553 (Remoto)\EXAMENES\T1\13553_Curso_T1\13553_Curso_T1\obj\Debug\net6.0-windows\13553_Curso_T1.pdb
+C:\Users\Eliyahu\Desktop\UPN\Ciclo V 2022-2\ESTRUCTURA DE DATOS - 13553 (Remoto)\EXAMENES\T1\13553_Curso_T1\13553_Curso_T1\obj\Debug\net6.0-windows\13553_Curso_T1.genruntimeconfig.cache
+C:\Users\Eliyahu\Desktop\UPN\Ciclo V 2022-2\ESTRUCTURA DE DATOS - 13553 (Remoto)\EXAMENES\T1\13553_Curso_T1\13553_Curso_T1\obj\Debug\net6.0-windows\ref\13553_Curso_T1.dll
+C:\Users\User\Desktop\T1\13553_Curso_T1\13553_Curso_T1\bin\Debug\net6.0-windows\13553_Curso_T1.exe
+C:\Users\User\Desktop\T1\13553_Curso_T1\13553_Curso_T1\bin\Debug\net6.0-windows\13553_Curso_T1.deps.json
+C:\Users\User\Desktop\T1\13553_Curso_T1\13553_Curso_T1\bin\Debug\net6.0-windows\13553_Curso_T1.runtimeconfig.json
+C:\Users\User\Desktop\T1\13553_Curso_T1\13553_Curso_T1\bin\Debug\net6.0-windows\13553_Curso_T1.dll
+C:\Users\User\Desktop\T1\13553_Curso_T1\13553_Curso_T1\bin\Debug\net6.0-windows\13553_Curso_T1.pdb
+C:\Users\User\Desktop\T1\13553_Curso_T1\13553_Curso_T1\obj\Debug\net6.0-windows\13553_Curso_T1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\T1\13553_Curso_T1\13553_Curso_T1\obj\Debug\net6.0-windows\_13553_Curso_T1.Form1.resources
+C:\Users\User\Desktop\T1\13553_Curso_T1\13553_Curso_T1\obj\Debug\net6.0-windows\_13553_Curso_T1.Properties.Resources.resources
+C:\Users\User\Desktop\T1\13553_Curso_T1\13553_Curso_T1\obj\Debug\net6.0-windows\13553_Curso_T1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\T1\13553_Curso_T1\13553_Curso_T1\obj\Debug\net6.0-windows\13553_Curso_T1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\T1\13553_Curso_T1\13553_Curso_T1\obj\Debug\net6.0-windows\13553_Curso_T1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\T1\13553_Curso_T1\13553_Curso_T1\obj\Debug\net6.0-windows\13553_Curso_T1.AssemblyInfo.cs
+C:\Users\User\Desktop\T1\13553_Curso_T1\13553_Curso_T1\obj\Debug\net6.0-windows\13553_Curso_T1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\T1\13553_Curso_T1\13553_Curso_T1\obj\Debug\net6.0-windows\13553_Curso_T1.dll
+C:\Users\User\Desktop\T1\13553_Curso_T1\13553_Curso_T1\obj\Debug\net6.0-windows\refint\13553_Curso_T1.dll
+C:\Users\User\Desktop\T1\13553_Curso_T1\13553_Curso_T1\obj\Debug\net6.0-windows\13553_Curso_T1.pdb
+C:\Users\User\Desktop\T1\13553_Curso_T1\13553_Curso_T1\obj\Debug\net6.0-windows\13553_Curso_T1.genruntimeconfig.cache
+C:\Users\User\Desktop\T1\13553_Curso_T1\13553_Curso_T1\obj\Debug\net6.0-windows\ref\13553_Curso_T1.dll
+C:\Users\rodri\OneDrive\Escritorio\T1\13553_Curso_T1\13553_Curso_T1\bin\Debug\net6.0-windows\13553_Curso_T1.exe
+C:\Users\rodri\OneDrive\Escritorio\T1\13553_Curso_T1\13553_Curso_T1\bin\Debug\net6.0-windows\13553_Curso_T1.deps.json
+C:\Users\rodri\OneDrive\Escritorio\T1\13553_Curso_T1\13553_Curso_T1\bin\Debug\net6.0-windows\13553_Curso_T1.runtimeconfig.json
+C:\Users\rodri\OneDrive\Escritorio\T1\13553_Curso_T1\13553_Curso_T1\bin\Debug\net6.0-windows\13553_Curso_T1.dll
+C:\Users\rodri\OneDrive\Escritorio\T1\13553_Curso_T1\13553_Curso_T1\bin\Debug\net6.0-windows\13553_Curso_T1.pdb
+C:\Users\rodri\OneDrive\Escritorio\T1\13553_Curso_T1\13553_Curso_T1\obj\Debug\net6.0-windows\13553_Curso_T1.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Escritorio\T1\13553_Curso_T1\13553_Curso_T1\obj\Debug\net6.0-windows\_13553_Curso_T1.Form1.resources
+C:\Users\rodri\OneDrive\Escritorio\T1\13553_Curso_T1\13553_Curso_T1\obj\Debug\net6.0-windows\_13553_Curso_T1.Properties.Resources.resources
+C:\Users\rodri\OneDrive\Escritorio\T1\13553_Curso_T1\13553_Curso_T1\obj\Debug\net6.0-windows\13553_Curso_T1.csproj.GenerateResource.cache
+C:\Users\rodri\OneDrive\Escritorio\T1\13553_Curso_T1\13553_Curso_T1\obj\Debug\net6.0-windows\13553_Curso_T1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\OneDrive\Escritorio\T1\13553_Curso_T1\13553_Curso_T1\obj\Debug\net6.0-windows\13553_Curso_T1.AssemblyInfoInputs.cache
+C:\Users\rodri\OneDrive\Escritorio\T1\13553_Curso_T1\13553_Curso_T1\obj\Debug\net6.0-windows\13553_Curso_T1.AssemblyInfo.cs
+C:\Users\rodri\OneDrive\Escritorio\T1\13553_Curso_T1\13553_Curso_T1\obj\Debug\net6.0-windows\13553_Curso_T1.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Escritorio\T1\13553_Curso_T1\13553_Curso_T1\obj\Debug\net6.0-windows\13553_Curso_T1.dll
+C:\Users\rodri\OneDrive\Escritorio\T1\13553_Curso_T1\13553_Curso_T1\obj\Debug\net6.0-windows\refint\13553_Curso_T1.dll
+C:\Users\rodri\OneDrive\Escritorio\T1\13553_Curso_T1\13553_Curso_T1\obj\Debug\net6.0-windows\13553_Curso_T1.pdb
+C:\Users\rodri\OneDrive\Escritorio\T1\13553_Curso_T1\13553_Curso_T1\obj\Debug\net6.0-windows\13553_Curso_T1.genruntimeconfig.cache
+C:\Users\rodri\OneDrive\Escritorio\T1\13553_Curso_T1\13553_Curso_T1\obj\Debug\net6.0-windows\ref\13553_Curso_T1.dll
+D:\UNIVERSIDAD\5TO CICLO\ESTRUCTURA DE DATOS\ESCRITORIO\T1\13553_Curso_T1\13553_Curso_T1\bin\Debug\net6.0-windows\13553_Curso_T1.exe
+D:\UNIVERSIDAD\5TO CICLO\ESTRUCTURA DE DATOS\ESCRITORIO\T1\13553_Curso_T1\13553_Curso_T1\bin\Debug\net6.0-windows\13553_Curso_T1.deps.json
+D:\UNIVERSIDAD\5TO CICLO\ESTRUCTURA DE DATOS\ESCRITORIO\T1\13553_Curso_T1\13553_Curso_T1\bin\Debug\net6.0-windows\13553_Curso_T1.runtimeconfig.json
+D:\UNIVERSIDAD\5TO CICLO\ESTRUCTURA DE DATOS\ESCRITORIO\T1\13553_Curso_T1\13553_Curso_T1\bin\Debug\net6.0-windows\13553_Curso_T1.dll
+D:\UNIVERSIDAD\5TO CICLO\ESTRUCTURA DE DATOS\ESCRITORIO\T1\13553_Curso_T1\13553_Curso_T1\bin\Debug\net6.0-windows\13553_Curso_T1.pdb
+D:\UNIVERSIDAD\5TO CICLO\ESTRUCTURA DE DATOS\ESCRITORIO\T1\13553_Curso_T1\13553_Curso_T1\obj\Debug\net6.0-windows\_13553_Curso_T1.Form1.resources
+D:\UNIVERSIDAD\5TO CICLO\ESTRUCTURA DE DATOS\ESCRITORIO\T1\13553_Curso_T1\13553_Curso_T1\obj\Debug\net6.0-windows\_13553_Curso_T1.Properties.Resources.resources
+D:\UNIVERSIDAD\5TO CICLO\ESTRUCTURA DE DATOS\ESCRITORIO\T1\13553_Curso_T1\13553_Curso_T1\obj\Debug\net6.0-windows\13553_Curso_T1.csproj.GenerateResource.cache
+D:\UNIVERSIDAD\5TO CICLO\ESTRUCTURA DE DATOS\ESCRITORIO\T1\13553_Curso_T1\13553_Curso_T1\obj\Debug\net6.0-windows\13553_Curso_T1.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNIVERSIDAD\5TO CICLO\ESTRUCTURA DE DATOS\ESCRITORIO\T1\13553_Curso_T1\13553_Curso_T1\obj\Debug\net6.0-windows\13553_Curso_T1.AssemblyInfoInputs.cache
+D:\UNIVERSIDAD\5TO CICLO\ESTRUCTURA DE DATOS\ESCRITORIO\T1\13553_Curso_T1\13553_Curso_T1\obj\Debug\net6.0-windows\13553_Curso_T1.AssemblyInfo.cs
+D:\UNIVERSIDAD\5TO CICLO\ESTRUCTURA DE DATOS\ESCRITORIO\T1\13553_Curso_T1\13553_Curso_T1\obj\Debug\net6.0-windows\13553_Curso_T1.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\5TO CICLO\ESTRUCTURA DE DATOS\ESCRITORIO\T1\13553_Curso_T1\13553_Curso_T1\obj\Debug\net6.0-windows\13553_Curso_T1.dll
+D:\UNIVERSIDAD\5TO CICLO\ESTRUCTURA DE DATOS\ESCRITORIO\T1\13553_Curso_T1\13553_Curso_T1\obj\Debug\net6.0-windows\refint\13553_Curso_T1.dll
+D:\UNIVERSIDAD\5TO CICLO\ESTRUCTURA DE DATOS\ESCRITORIO\T1\13553_Curso_T1\13553_Curso_T1\obj\Debug\net6.0-windows\13553_Curso_T1.pdb
+D:\UNIVERSIDAD\5TO CICLO\ESTRUCTURA DE DATOS\ESCRITORIO\T1\13553_Curso_T1\13553_Curso_T1\obj\Debug\net6.0-windows\13553_Curso_T1.genruntimeconfig.cache
+D:\UNIVERSIDAD\5TO CICLO\ESTRUCTURA DE DATOS\ESCRITORIO\T1\13553_Curso_T1\13553_Curso_T1\obj\Debug\net6.0-windows\ref\13553_Curso_T1.dll
